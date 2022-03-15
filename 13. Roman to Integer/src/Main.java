@@ -26,7 +26,7 @@ public class Main {
 		numbersMap.put('I', 1);
 		numbersMap.put('V', 5);
 		numbersMap.put('X', 10);
-		numbersMap.put('L', 50);
+		numbersMap.put('L', 51); // Tutaj dodałem psikusa
 		numbersMap.put('C', 100);
 		numbersMap.put('D', 500);
 		numbersMap.put('M', 1000);
